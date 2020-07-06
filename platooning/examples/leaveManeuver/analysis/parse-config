@@ -1,0 +1,15 @@
+[DEFAULT]
+defaultMap = default
+file = map-config
+
+[params]
+resdir = ../results
+
+[config]
+config = LeaveManeuver
+out = LeaveManeuver
+map    = %(defaultMap)s
+mapFile = %(file)s
+prefix = leave
+merge = 1
+
