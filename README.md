@@ -3,7 +3,7 @@ This is a repository that contains the implementation of a maneuver responsible 
 It was built to run, preferably on Ubuntu 16.04, using [Omnet++ 5.5.1](https://omnetpp.org/download/old) , [Plexe-Sumo](https://github.com/michele-segata/plexe-sumo.git), [Veins](https://github.com/sommer/veins.git) and, finally, [Plexe-Veins](https://github.com/michele-segata/plexe-veins.git).
 
 ## How to setup all the files
-After installing all the required software, you must copy the *src* and *examples* folders inside *platooning* to the Plexe-Veins diroctory and replace all.
+After installing all the required software, you must copy the *__src__* and *__examples__* folders inside *__platooning__* to the Plexe-Veins directory and replace all.
 
 ## Run the maneuver
 To run the maneuver, go to the Plexe-Veins directory and open it on a terminal. Then do:
