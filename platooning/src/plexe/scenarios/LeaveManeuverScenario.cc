@@ -40,6 +40,8 @@ void LeaveManeuverScenario::prepareManeuverCars(int platoonLane)
         break;
     }
 
+    //change this setup dependent on which scenario you want to study
+    //and in which position you want Available to be
     case 1:
     //case 2:
     case 3: 
